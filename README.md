@@ -5,3 +5,4 @@ Colab Notebook Project mainly for archiving video from youtube, bilibili, and ma
 - add streamlink
 - add ytarchive
 - add yt-dlp
+- add fc2 script
