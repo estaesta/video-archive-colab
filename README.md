@@ -1,3 +1,7 @@
+Discontinued because of new Google Drive policy
+
+The main goal of this project is to archive and hoard videos from various sources to Google Drive unlimited storage, but now it's useless
+
 ## THIS NOTEBOOK MAY BE VIOLATING GOOGLE COLAB'S TOS
 
 # video-archive-colab
